@@ -1,0 +1,11 @@
+name: MSedge
+version: 1.0
+main: io.github.msedge.msedgestats.MSedgeStats
+api-version: 1.21
+author: MSedge
+description: MSedge's Stats Plugin
+
+commands:
+  stats:
+    description: Show player stats
+    usage: /stats [player]
