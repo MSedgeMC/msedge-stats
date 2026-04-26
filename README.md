@@ -1,6 +1,6 @@
 # MSedge Stats
 
-A lightweight, real-time player statistics plugin for Paper/Purpur 1.21.x servers.
+A lightweight, real-time player statistics plugin with a clean gui for Paper/Spigot/Purpur 1.21.x servers.
 
 ## Features
 
